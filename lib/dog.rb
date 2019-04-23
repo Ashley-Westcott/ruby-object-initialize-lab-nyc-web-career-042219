@@ -6,16 +6,16 @@
   
 # end
 
-# class Dog
-#   def initialize(breed)
-#     @breed = breed
-#   end
+class Dog
+  def initialize(breed)
+    @breed = breed
+  end
   
-#   def breed= (breed)
-#     @breed = breed
-#   end
+  def breed= (breed)
+    @breed = breed
+  end
   
-#   def breed
-#     @breed
-#   end
-# end
+  def breed
+    @breed
+  end
+end
